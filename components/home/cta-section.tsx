@@ -48,11 +48,11 @@ export function CTASection() {
             <MessageCircle className="w-5 h-5 text-accent" />
             <span>أو تواصل معنا عبر واتساب</span>
             <a
-              href="https://wa.me/201000000000"
+              href="https://wa.me/"
               className="text-accent hover:underline font-medium transition-all duration-300 hover:text-primary"
               dir="ltr"
             >
-              +20 100 000 0000
+              +20 
             </a>
           </div>
         </div>
