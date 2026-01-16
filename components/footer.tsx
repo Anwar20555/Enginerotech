@@ -118,7 +118,7 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary flex-shrink-0" />
                 <span className="text-muted-foreground text-sm" dir="ltr">
-                  +20 100 000 0000
+                  +20 01000757380
                 </span>
               </li>
               <li className="flex items-center gap-3">
